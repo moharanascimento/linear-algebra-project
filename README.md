@@ -22,4 +22,4 @@
 
     3.4 [Numerical difference between the methods](#34-Numerical-difference-between-the-methods)
 
-    3.5 Stability of the methods](#35-Stability-of-the-methods)
+    3.5 [Stability of the methods](#35-Stability-of-the-methods)
