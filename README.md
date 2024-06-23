@@ -21,3 +21,5 @@
     3.3 [Any dimension matrices](#33-any-dimension-matrices)
 
     3.4 [Numerical difference between the methods](#34-Numerical-difference-between-the-methods)
+
+    3.5 [Stability of the methods](#35-Stability-of-the-methods)
